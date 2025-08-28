@@ -1,1 +1,1 @@
-First Time trying to push projects into here not sure what I am doing but trying out something 
+This C++ code sorts a Banking Large Dataset accoding to the transaction using multiple sorting algorithem (eg. Bubble Sort, Insertion Sort, Merge Sort, Quick Short). Once the sorting is completed and if the user is satisfied with the output they can export it into a json file. 
